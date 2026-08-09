@@ -38,6 +38,7 @@ func main() {
 	app := bot.New(session, st, cfg)
 	session.AddHandler(app.OnReady)
 	session.AddHandler(app.OnInteractionCreate)
+	session.AddHandler(app.OnMessageCreate)
 
 	if err := session.Open(); err != nil {
 		log.Fatalf("open gateway: %v", err)
