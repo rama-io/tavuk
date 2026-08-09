@@ -1,0 +1,9 @@
+.git
+data/
+.env
+.env.*
+!.env.example
+tavuk
+*.test
+Dockerfile
+.dockerignore
