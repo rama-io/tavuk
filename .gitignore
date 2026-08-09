@@ -1,0 +1,26 @@
+# Binary
+tavuk
+*.exe
+
+# Test
+*.test
+*.out
+coverage.out
+
+.env
+.env.*
+!.env.example
+
+# Runtime data (Only change if you changed it via .env.)
+data/
+*.tmp
+
+# Deps
+vendor/
+
+# IDE stuff in case needed
+.idea/
+.vscode/
+*.swp
+*.log
+.DS_Store
