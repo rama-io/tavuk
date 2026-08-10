@@ -29,9 +29,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="4"
      inkscape:cx="29"
-     inkscape:cy="54.25"
+     inkscape:cy="35.25"
      inkscape:document-units="px"
-     inkscape:current-layer="g480"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      borderlayer="true"
@@ -70,8 +70,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-280.06665)"
-     style="display:inline"
-     sodipodi:insensitive="true"><rect
+     style="display:inline"><rect
        style="display:inline;fill:#86b69f;fill-opacity:1;stroke-width:165.365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:21.6"
        id="rect12"
        width="33.866669"
